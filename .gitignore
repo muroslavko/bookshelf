@@ -373,7 +373,7 @@ bin/
 .vs/
 node_modules/
 packages/
-frontend/package.json
+# frontend/package.json
 frontend/package-lock.json
 frontend/package-lock.json
 backend/Polyglot/appsettings.Development.json
